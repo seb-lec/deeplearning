@@ -1,6 +1,5 @@
 import torch
-from torch.utils.data import Dataset
-from torch.utils.data import DataLoader
+from torch.utils.data import Dataset, DataLoader
 
 # dataset and dataloader are two important classes in PyTorch that are used to handle:
 # * data loading (dataset)
